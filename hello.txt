@@ -1,0 +1,2 @@
+Hello GitHub!
+My first prog to save in github
